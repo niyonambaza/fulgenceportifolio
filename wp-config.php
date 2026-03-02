@@ -21,7 +21,7 @@
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define( 'DB_NAME', 'railway' );
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'fulgence' );
 define( 'DB_PASSWORD', 'KwUFvdEcmxSBaEkgnlQtRupiCyIUZMOq' );
 define( 'DB_HOST', 'ballast.proxy.rlwy.net:3306' );
 
